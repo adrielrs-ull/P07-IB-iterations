@@ -33,7 +33,7 @@ int main(int argc, char* argv[]) {
   if (CheckCorrectParameters(argc, argv, 1)) {
     int n_terminos, fibo1{0}, fibo2{1}, fibo3{0};
     std::cin >> n_terminos;
-    for (int i{0}; i < n_terminos; i++) {
+    for (int i{0}; i < n_terminos - 1; i++) {
       if (fibo3 == 1) {
         std::cout << " " << fibo3 << " " << fibo3;
       } else {
