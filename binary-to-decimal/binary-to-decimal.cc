@@ -4,7 +4,7 @@
   * Grado en Ingeniería Informática
   * Informática Básica 2023-2024
   *
-  * @file integer_division_and_reminder.cc
+  * @file binary-to-decimal.cc
   * @author Adriel Reyes Suárez alu0101640136@ull.edu.es
   * @date Oct 24 2023
   * @software license https://www.gnu.org/licenses/gpl-3.0.html
